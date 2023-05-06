@@ -1,5 +1,5 @@
 # IntoTheDeep
-By: David Jackson
+## By: David Jackson
 
 
 This repo holds only the source code for a prototype video game made in the Unty game Engine. The game is in it's mid stages of development with most of the functionality being completed, with a few more milestones to be finsihed.
